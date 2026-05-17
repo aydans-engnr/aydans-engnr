@@ -1,6 +1,8 @@
 # Aydan S
 **```ML Scientist```**
 
+---
+
 I'm a research-oriented ML Scientist with a specialization in predictive mathematical modeling. I'm passionate about safe, sustainable, and accurate AI that positively impacts society.
 
 <h3 align="left">Tech Stack</h3>
