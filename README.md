@@ -7,6 +7,12 @@ I'm a research-oriented ML Scientist with a specialization in predictive mathema
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev)
 
+<!-- 
+<a href="https://www.linkedin.com/in/aydan-schweig/" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
+-->
+
 <h3 align="left">Tech Stack</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=py,anaconda,sklearn,pytorch,tensorflow,sqlite,git,bash,linux&theme=dark&perline=3)](https://skillicons.dev)
