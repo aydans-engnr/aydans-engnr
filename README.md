@@ -9,6 +9,7 @@ I'm a research-oriented ML Scientist with a specialization in predictive mathema
 
 [![My Skills](https://skillicons.dev/icons?i=py,anaconda,sklearn,pytorch,tensorflow,sqlite,git,bash,linux&theme=dark&perline=3)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev)
 
 <!--
 **aydans-engnr/aydans-engnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
