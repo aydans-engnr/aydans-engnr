@@ -1,6 +1,6 @@
-<h3 align="left">Aydan S</h3>
+<h3 align="left">About Me</h3>
 
-**```ML Scientist```**
+<!-- **```ML Scientist```** -->
 
 ---
 
