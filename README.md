@@ -1,4 +1,4 @@
-<h1 align="left">Aydan S</h1>
+<h3 align="left">Aydan S</h3>
 
 **```ML Scientist```**
 
