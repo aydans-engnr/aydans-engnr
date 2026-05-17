@@ -1,5 +1,8 @@
 # Aydan S
 **```ML Scientist```**
+
+I'm a research-oriented ML Scientist with a specialization in predictive mathematical modeling. I'm passionate about safe, sustainable, and accurate AI that positively impacts society.
+
 <!--
 **aydans-engnr/aydans-engnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
