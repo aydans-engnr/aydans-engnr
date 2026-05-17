@@ -5,13 +5,14 @@
 
 I'm a research-oriented ML Scientist with a specialization in predictive mathematical modeling. I'm passionate about **safe**, **sustainable**, and **accurate** AI that positively impacts society.
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev)
-
-<!-- 
-<a href="https://www.linkedin.com/in/aydan-schweig/" target="blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
+<!--  [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev)
 -->
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aydan-schweig/" target="blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+</p>
 
 <h3 align="left">Tech Stack</h3>
 
