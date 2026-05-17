@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Aydan S
+**```ML Scientist```**
 <!--
 **aydans-engnr/aydans-engnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
