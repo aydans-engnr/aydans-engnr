@@ -15,8 +15,11 @@ I'm a research-oriented ML Scientist with a specialization in predictive mathema
 
 <h3 align="left">Tech Stack</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,anaconda,sklearn,pytorch,tensorflow,sqlite,git,bash,linux&theme=dark&perline=3)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,anaconda,sklearn,pytorch,tensorflow,sqlite,git,bash,linux&theme=dark&perline=3" />
+  </a>
+</p>
 
 
 <!--
