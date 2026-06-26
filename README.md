@@ -3,7 +3,7 @@
 
 <!-- **```ML Scientist```** -->
 
-I'm a research-oriented ML Scientist with a specialization in predictive mathematical modeling. I'm passionate about **safe**, **sustainable**, and **accurate** AI that positively impacts society.
+I'm a research-oriented ML Engineer with a specialization in predictive mathematical modeling. I'm passionate about **safe**, **sustainable**, and **accurate** AI that positively impacts society.
 
 <!--  [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev)
 -->
