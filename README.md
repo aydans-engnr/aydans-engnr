@@ -16,6 +16,8 @@ I'm a research-oriented ML Engineer with a specialization in predictive mathemat
 
 <h3 align="left">Tech Stack</h3>
 
+![Alt text](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,anaconda,sklearn,pytorch,tensorflow,sqlite,git,bash,linux&theme=dark" />
