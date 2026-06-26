@@ -3,6 +3,14 @@
 
 I'm an ML Engineer specializing in natural language processing and machine learning (predictive AI). I'm passionate about **safe**, **sustainable**, and **accurate** AI that positively impacts society.
 
+<h2 align="left">Tech Stack</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,anaconda,sklearn,pytorch,tensorflow,sqlite,git,bash,linux&theme=dark" />
+  </a>
+</p>
+
 <h2 align="left">Connect</h3>
 
 <p align="center">
@@ -11,13 +19,6 @@ I'm an ML Engineer specializing in natural language processing and machine learn
   </a>
 </p>
 
-<h2 align="left">Tech Stack</h3>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,anaconda,sklearn,pytorch,tensorflow,sqlite,git,bash,linux&theme=dark" />
-  </a>
-</p>
 
 
 <!--
