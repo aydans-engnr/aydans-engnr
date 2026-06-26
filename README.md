@@ -1,4 +1,6 @@
 <h1 align="left">Aydan S</h1>
+![Alt text](https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif)
+
 <h2 align="left">😎About Me</h3>
 
 I'm an ML Engineer specializing in natural language processing and machine learning (predictive AI). I'm passionate about **safe**, **sustainable**, and **accurate** AI that positively impacts society.
