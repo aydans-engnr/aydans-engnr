@@ -3,7 +3,7 @@
 
 I'm an ML Engineer specializing in natural language processing and machine learning (predictive AI). I'm passionate about **safe**, **sustainable**, and **accurate** AI that positively impacts society.
 
-<h2 align="left">Tech Stack</h3>
+<h2 align="left">Languages & Frameworks</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
