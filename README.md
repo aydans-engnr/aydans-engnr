@@ -3,7 +3,9 @@
 
 <!-- **```ML Scientist```** -->
 
-![Alt text](https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif width="100" alt="LinkedIn" />
+</p>
 
 I'm a research-oriented ML Engineer with a specialization in predictive mathematical modeling. I'm passionate about **safe**, **sustainable**, and **accurate** AI that positively impacts society.
 
@@ -12,7 +14,7 @@ I'm a research-oriented ML Engineer with a specialization in predictive mathemat
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aydan-schweig/" target="blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="200" alt="LinkedIn" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="LinkedIn" />
   </a>
 </p>
 
