@@ -10,7 +10,7 @@ I'm a research-oriented ML Engineer with a specialization in predictive mathemat
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aydan-schweig/" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" />
   </a>
 </p>
 
