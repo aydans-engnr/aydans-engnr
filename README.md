@@ -12,7 +12,7 @@ I'm an ML Engineer specializing in natural language processing and machine learn
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,anaconda,sklearn,pytorch,tensorflow,sqlite,git,bash,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,anaconda,sklearn,pytorch,tensorflow,flask,sqlite,git,bash,linux&theme=dark" />
   </a>
 </p>
 
