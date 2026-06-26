@@ -1,5 +1,5 @@
 <h1 align="left">Aydan S</h1>
-<h3 align="left">About Me</h3>
+<h2 align="left">About Me</h3>
 
 <!-- **```ML Scientist```** -->
 
@@ -12,7 +12,7 @@ I'm a research-oriented ML Engineer with a specialization in predictive mathemat
 <!--  [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://skillicons.dev)
 -->
 
-<h3 align="left">Connect</h3>
+<h2 align="left">Connect</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aydan-schweig/" target="blank">
@@ -20,6 +20,8 @@ I'm a research-oriented ML Engineer with a specialization in predictive mathemat
   </a>
 </p>
 
+
+<!--
 <h3 align="left">Tech Stack</h3>
 
 <p align="center">
@@ -27,12 +29,10 @@ I'm a research-oriented ML Engineer with a specialization in predictive mathemat
     <img src="https://skillicons.dev/icons?i=py,anaconda,sklearn,pytorch,tensorflow,sqlite,git,bash,linux&theme=dark" />
   </a>
 </p>
-
+-->
 
 <!--
 **aydans-engnr/aydans-engnr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
